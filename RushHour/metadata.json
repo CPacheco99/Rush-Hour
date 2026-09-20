@@ -1,0 +1,11 @@
+{
+    "nombre": "Rush Hour",
+    "autores": [
+        "Carlos Pacheco 26.756.281",
+        "Javier Urriola 24.391.336"
+    ],
+    "version": "1.0.0",
+    "descripcion": "Mueve los vehiculos que se encuentran en el estacionamiento para liberar al auto rojo del atasco",
+    "grupo": "Grupo #7",
+    "Controles": "Desliza los vehiculos de forma horizontal o vertical con el mouse para liberar al auto rojo"
+}
